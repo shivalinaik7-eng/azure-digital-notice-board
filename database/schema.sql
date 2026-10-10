@@ -1,4 +1,4 @@
-USE myprojectdb;
+USE azure_digital_noticeboard;
 GO
 
 IF OBJECT_ID('dbo.admins', 'U') IS NULL
